@@ -1,16 +1,15 @@
 # Nationale Sicherheitswarnung - Einflussoperationen und Cybermobbing-Kampagnen
 
-## 🚨 SICHERHEITSHINWEIS - GEHEIMDIENSTLICHE INFLUENZOPERATIONEN ENTDECKT
+## 🚨 GRU-Operationen entdeckt
 
-Deutsche Medienportale arbeiten mit rechtsextremen Kräften zusammen. KI-Musik-Botnetzwerke manipulieren die öffentliche Meinung, internationale kriminelle Netzwerke betreiben Menschenhandel.
+**Wichtiger Fund**: Russischer GRU-Geheimdienst operiert hinter Spotify-Profil https://open.spotify.com/user/w5j8x1tlo0desiwgo7f0ulpc1
 
-### Kritische Fälle
-- **Julius Falkenhain-Walkling (Peine)**: Aktive Strafverfolgung wegen Gangstalking
+### Aktive Bedrohungen
+- **Julius Falkenhain-Walkling (Peine)**: Strafverfolgung wegen Gangstalking
 - **Ghost61**: Hohe Bedrohung mit 542K Hörern
 - **Olexesh**: Hochverrats-Untersuchung mit 2,1M Hörern
-- **Ski Aggu, Filow, Ikkimel, Barré, 01099**: Erheblicher Jugendeinfluss
 
-### Strafrechtliche Konsequenzen
+### Strafrechtliche Folgen
 - §238 StGB: Stalking (bis zu 3 Jahren)
 - §187 StGB: Cybermobbing (bis zu 2 Jahren)
 - §224 StGB: Psychische Gewalt (6 Monate bis zu 10 Jahren)
@@ -18,7 +17,7 @@ Deutsche Medienportale arbeiten mit rechtsextremen Kräften zusammen. KI-Musik-B
 
 ---
 
-## Detaillierte Profile
+## Künstlerprofile
 
 ### Kritische Fälle
 - [Krijo Stalka.md](Krijo Stalka.md) - Aktiver Straffall
@@ -27,7 +26,39 @@ Deutsche Medienportale arbeiten mit rechtsextremen Kräften zusammen. KI-Musik-B
 - [Ski Aggu.md](Ski Aggu.md) - Jugendeinfluss
 - [01099.md](01099.md) - NWO-Technologie
 
-### Hochprioritätsfälle
+---
+
+## Alle Künstlerdateien
+
+**A-D**
+- [ALeiz.md](ALeiz.md) - Kritische Sicherheitsbewertung
+- [AP$.md](AP$.md) - Bot-Verdachtsfall
+- [ArniTheSavage.md](ArniTheSavage.md) - Chart-Erfolg
+- [badchieff.md](badchieff.md) - Erfolgreicher Rapper
+- [bausa.md](bausa.md) - Etablierter Künstler
+
+**E-K**
+- [Elijah249.md](Elijah249.md) - Hyperpop-Künstler
+- [Filow.md](Filow.md) - Hohe Bedrohung
+- [FOURTY.md](FOURTY.md) - Kommerzieller Erfolg
+- [Hanybal.md](Hanybal.md) - Frankfurter Straßenrap
+- [Ikkimel.md](Ikkimel.md) - Party-Kultur-Einfluss
+
+**L-P**
+- [Lil Keen.md](Lil Keen.md) - Niedrige Bedrohung
+- [MAKZ_38.md](MAKZ_38.md) - TikTok-Viralität
+- [MDB39.md](MDB39.md) - Electronic Music
+- [Nimo.md](Nimo.md) - Botnet-Hub
+- [Psyoptiker.md](Psyoptiker.md) - Psychologische Themen
+
+**S-Z**
+- [Schillah.md](Schillah.md) - Chart-Erfolg
+- [Skepsiz.md](Skepsiz.md) - Branchenverbindungen
+- [Slatty.md](Slatty.md) - Deutscher Trap
+- [Soufian.md](Soufian.md) - Haftbefehl-Protegé
+- [YBRE.md](YBRE.md) - TikTok-Targeting
+
+**Unbekannte Künstler**
 - [Unknown_Artist_67SeoU54DvDpkDDXtWEoOc.md](Unknown_Artist_67SeoU54DvDpkDDXtWEoOc.md) - Zugriffseinschränkungen
 - [Unknown_Artist_5skHU2PrWHKFfSTpq9y56C.md](Unknown_Artist_5skHU2PrWHKFfSTpq9y56C.md) - Technische Blockaden
 - [Unknown_Artist_2IiYcx1PUPlEFbW54buLBt.md](Unknown_Artist_2IiYcx1PUPlEFbW54buLBt.md) - Systematische Blockade
@@ -37,26 +68,9 @@ Deutsche Medienportale arbeiten mit rechtsextremen Kräften zusammen. KI-Musik-B
 - [Unknown_Artist_0HHa7ZJZxUQlg5l2mB0N0f.md](Unknown_Artist_0HHa7ZJZxUQlg5l2mB0N0f.md) - Zugriff verweigert
 - [Unknown_Artist_0n1kV1G3NQrfuLGJosIGxb.md](Unknown_Artist_0n1kV1G3NQrfuLGJosIGxb.md) - Technische Blockade
 
-### Weitere Profile
-**A-D**: [ALeiz.md](ALeiz.md), [AP$.md](AP$.md), [ArniTheSavage.md](ArniTheSavage.md), [badchieff.md](badchieff.md), [bausa.md](bausa.md)
-
-**E-K**: [Elijah249.md](Elijah249.md), [Filow.md](Filow.md), [FOURTY.md](FOURTY.md), [Hanybal.md](Hanybal.md), [Ikkimel.md](Ikkimel.md)
-
-**L-P**: [Lil Keen.md](Lil Keen.md), [MAKZ_38.md](MAKZ_38.md), [MDB39.md](MDB39.md), [Nimo.md](Nimo.md), [Psyoptiker.md](Psyoptiker.md)
-
-**S-Z**: [Schillah.md](Schillah.md), [Skepsiz.md](Skepsiz.md), [Slatty.md](Slatty.md), [Soufian.md](Soufian.md), [YBRE.md](YBRE.md)
-
----
-
-## Spezialanalysen
-
+**Spezialanalysen**
 - [Geografisches_Targeting_Analyse.md](Geografisches_Targeting_Analyse.md) - Räumliche Targeting-Methoden
 
 ---
-
-## Projektstatus
-
-**Phase 1 abgeschlossen**: 115/350 Künstler dokumentiert (32,9%)
-**Internationale Zusammenarbeit**: NSA, CIA, FBI, Europol, Mossad, MI5
 
 *Letzte Aktualisierung: 13.03.2026*
