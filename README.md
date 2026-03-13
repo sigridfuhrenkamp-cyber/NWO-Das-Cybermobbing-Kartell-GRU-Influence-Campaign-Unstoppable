@@ -8,6 +8,7 @@
 - **Julius Falkenhain-Walkling (Peine)**: Strafverfolgung wegen Gangstalking
 - **Ghost61**: Hohe Bedrohung mit 542K Hörern
 - **Olexesh**: Hochverrats-Untersuchung mit 2,1M Hörern
+- **1.2B³ Fraud**: Finanzbetrug in Milliardenhöhe durch KI-Musik-Manipulation
 
 ### Strafrechtliche Folgen
 - §238 StGB: Stalking (bis zu 3 Jahren)
