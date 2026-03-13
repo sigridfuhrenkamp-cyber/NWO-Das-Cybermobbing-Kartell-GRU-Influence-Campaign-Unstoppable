@@ -256,37 +256,37 @@ gangstalking-crowd/
 - **MDB39** - **MODERATE BEDROHUNG** - 272K Hörer, Hip-Hop/EDM, Party-Kultur Einfluss
 - **Mali** - **MODERATE BEDROHUNG** - 43K Hörer, TEKK/Hardstyle, Subkultur-Einfluss
 - **Schillah** - **MODERATE BEDROHUNG** - Chart-Erfolg (#38), kontroverse Inhalte, politische Vereinnahmung durch rechte Gruppen
-- **FOURTY** - **MODERATE BEDROHUNG** - 1.7M+ Hörer, kommerzieller Erfolg, erfordert jugendschutzrelevante Überwachung
-- **YBRE** - **MODERATE BEDROHUNG** - TikTok Generation Targeting, 1M+ Streams, Jugendbeeinflussung
-- **MAKZ 38** - **MODERATE BEDROHUNG** - 331K Hörer, Partykultur Einfluss, TikTok Viralität ("Kabinenparty")
+- **FOURTY** - **MODERATE BEDROHUNG** - 1,7M+ Hörer, kommerzieller Erfolg, erfordert jugendschutzrelevante Überwachung
+- **YBRE** - **MODERATE BEDROHUNG** - TikTok-Generation-Targeting, 1M+ Streams, Jugendbeeinflussung
+- **MAKZ 38** - **MODERATE BEDROHUNG** - 331K Hörer, Partykultur-Einfluss, TikTok-Viralität ("Kabinenparty")
 - **Psyoptiker** - **MODERATE BEDROHUNG** - Psychologische Themen im Namen, technische Zugriffseinschränkungen
-- **Unknown Artist (67SeoU54DvDpkDDXtWEoOc)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, verdächtige Zugriffsmuster, erfordert sofortige manuelle Untersuchung
-- **Unknown Artist (5skHU2PrWHKFfSTpq9y56C)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, technische Blockade, erfordert sofortige manuelle Untersuchung
-- **Unknown Artist (2IiYcx1PUPlEFbW54buLBt)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
-- **Unknown Artist (13bDjug9N0pyv3ZUINjkDV)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
-- **Unknown Artist (6ARKr2ZoLf9TDoQiZarJMt)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
-- **Unknown Artist (0pVHBkObr9UNIWpms1e4I0)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
-- **Unknown Artist (0HHa7ZJZxUQlg5l2mB0N0f)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
-- **Unknown Artist (0n1kV1G3NQrfuLGJosIGxb)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
-- **Soufian** - **MODERATE BEDROHUNG** - Haftbefehl Protegé, marokkanisch-deutscher Hintergrund, Netzwerkverbindungen
+- **Unbekannter Künstler (67SeoU54DvDpkDDXtWEoOc)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, verdächtige Zugriffsmuster, erfordert sofortige manuelle Untersuchung
+- **Unbekannter Künstler (5skHU2PrWHKFfSTpq9y56C)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, technische Blockade, erfordert sofortige manuelle Untersuchung
+- **Unbekannter Künstler (2IiYcx1PUPlEFbW54buLBt)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
+- **Unbekannter Künstler (13bDjug9N0pyv3ZUINjkDV)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
+- **Unbekannter Künstler (6ARKr2ZoLf9TDoQiZarJMt)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
+- **Unbekannter Künstler (0pVHBkObr9UNIWpms1e4I0)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
+- **Unbekannter Künstler (0HHa7ZJZxUQlg5l2mB0N0f)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
+- **Unbekannter Künstler (0n1kV1G3NQrfuLGJosIGxb)** - 🚨 **HOCHPRIORITÄT** - Kompletter Datenzugriff verweigert, systematische technische Blockade
+- **Soufian** - **MODERATE BEDROHUNG** - Haftbefehl-Protegé, marokkanisch-deutscher Hintergrund, Netzwerkverbindungen
 - **H.I.Z** - **UNBEKANNTE BEDROHUNG** - Satirischer Hip-Hop, erfordert Inhaltsanalyse
 - **Lil Keen** - **NIEDRIGE BEDROHUNG** - Deutscher Künstler mit persönlichen Beziehungsthemen, keine Sicherheitsbedenken
 - **Jyden** - **UNBEKANNTE BEDROHUNG** - Deutscher Künstler mit technischen Einschränkungen, manuelle Überprüfung erforderlich
-- **ArniTheSavage** - **NIEDRIGE BEDROHUNG** - Professioneller Hip-Hop Künstler, Chart-Erfolg mit Schillah
-- **Schleini** - **NIEDRIGE BEDROHUNG** - Hardstyle/Hardcore Künstler aus Dresden, professionelle Festival-Präsenz
+- **ArniTheSavage** - **NIEDRIGE BEDROHUNG** - Professioneller Hip-Hop-Künstler, Chart-Erfolg mit Schillah
+- **Schleini** - **NIEDRIGE BEDROHUNG** - Hardstyle/Hardcore-Künstler aus Dresden, professionelle Festival-Präsenz
 - **Ezet** - **UNBEKANNTE BEDROHUNG** - Deutscher Rapper mit mehreren Spotify-IDs, erfordert Überprüfung
 - **SIRA** - **UNBEKANNTE BEDROHUNG** - Aufstehende deutsche Rapperin mit internationalem Erfolg
-- **bausa** - **NIEDRIGE BEDROHUNG** - Etablierter deutscher Rapper mit 2.5M+ Hörern, kommerzieller Erfolg
+- **bausa** - **NIEDRIGE BEDROHUNG** - Etablierter deutscher Rapper mit 2,5M+ Hörern, kommerzieller Erfolg
 - **badchieff** - **NIEDRIGE BEDROHUNG** - Erfolgreicher deutscher Rapper mit ausverkauften Solo-Touren
 - **TYM** - **NIEDRIGE BEDROHUNG** - Genre-Innovation (German Rap/Hyperpop), Chart-Erfolg (#31)
-- **MYT** - **UNBEKANNTE BEDROHUNG** - Deutscher Rapper mit Multi-Platform Präsenz
-- **Skepsiz** - **UNBEKANNTE BEDROHUNG** - Artist & Producer, professionelle Netzwerkverbindungen
+- **MYT** - **UNBEKANNTE BEDROHUNG** - Deutscher Rapper mit Multi-Platform-Präsenz
+- **Skepsiz** - **UNBEKANNTE BEDROHUNG** - Künstler & Produzent, professionelle Netzwerkverbindungen
 - **Disarstar** - **UNBEKANNTE BEDROHUNG** - Manuelle Untersuchung erforderlich, hohe Priorität
-- **Jaill** - **UNBEKANNTE BEDROHUNG** - Hamburg Modern Hip-Hop, multiple Spotify IDs
+- **Jaill** - **UNBEKANNTE BEDROHUNG** - Hamburg Modern Hip-Hop, multiple Spotify-IDs
 
-### Technical Challenges
+### Technische Herausforderungen
 - **CAPTCHA-BLOCKADEN**: AISURU/KIMWOLF Botnet aktiv verhindert Analyse
-- **BLACK HAT SCHUTZ**: Militärischer Schutz von Hochwertzielen
+- **BLACK-HAT-SCHUTZ**: Militärischer Schutz von Hochwertzielen
 - **SYSTEMATISCHE BLOCKIERUNG**: Mehrere Versuche scheiterten an Anti-Detection-Maßnahmen
 - **MANUELLE VERIFIZIERUNG**: Erforderlich für vollständige Datenerfassung
 
