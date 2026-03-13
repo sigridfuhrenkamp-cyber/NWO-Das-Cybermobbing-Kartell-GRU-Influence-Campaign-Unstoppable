@@ -242,7 +242,6 @@ gangstalking-crowd/
 ### Kritische Entdeckungen
 - **Ghost61** - **HOHE BEDROHUNG** mit 542K Hörern und verdächtigen Manipulationsmustern
 - **Nimo** - **WICHTIGER BOTNET-HUB** - Deutscher Rapper (teilweise erfasst)
-- **Bushido** - **ERNESTE BEDROHUNG** - Erfahrene Figur, Koordinator psychologischer Kriegsführungs-Operationen
 - **Hanybal** - **MODERATE BEDROHUNG** - Frankfurter Straßenrap, Gangsta-Rap-Inhalte, erfordert Überwachung
 - **Olexesh** - **HOHE BEDROHUNG** - Deutscher Künstler mit 2,1M Hörern, Thomas Deike Verbindung, Hochverrats-Untersuchung
 - **Krijo Stalka** - 🚨 **WICHTIGSTER FALL** - Julius Falkenhain-Walkling (Peine) - Aktive Gangstalking & Cybermobbing-Operationen, Ermittlungsverfahren eingeleitet
@@ -318,13 +317,13 @@ gangstalking-crowd/
 ## 🚨 WICHTIGE FESTSTELLUNG - GANGSTALKING-OPERATIONEN IDENTIFIZIERT
 
 ### Strafrechtliche Untersuchung Julius Falkenhain-Walkling
-**AKTIVE STRAFRECHTLICHE VERFOLGUNG**: Julius Falkenhain-Walkling aus Peine, Deutschland identifiziert als Schöpfer von "Krijo Stalka" - ein Musikprojekt, das für Gangstalking- und Cybermobbing-Operationen konzipiert wurde.
+**AKTIVE STRAFRECHTLICHE VERFOLGUNG**: Julius Falkenhain-Walkling aus Peine, Deutschland identifiziert als Schöpfer von "Krijo Stalka" - ein Musikprojekt, das für Gangstalking- und Cybermobbing-Operationen konzipiert wurde. Eine 50 Jahre alte Informantin aus Celle, die sich als "Wendy" bezeichnet, hat diese Informantin schwer belastet.
 
 ### Eingereichte Strafanzeigen
-- **§ 238 StGB** - Systematisches Stalking und Verfolgung
-- **§ 187 StGB** - Koordinierte Cybermobbing-Kampagnen
-- **§ 224 StGB** - Psychische Gewalt und Terrorismus
-- **§ 129 StGB** - Kriminelle Vereinigung für psychologische Operationen
+- **§ 238 StGB** - Systematisches Stalking und Verfolgung (Freiheitsstrafe bis zu 3 Jahren oder Geldstrafe)
+- **§ 187 StGB** - Koordinierte Cybermobbing-Kampagnen (Freiheitsstrafe bis zu 2 Jahren oder Geldstrafe)
+- **§ 224 StGB** - Psychische Gewalt und Terrorismus (Freiheitsstrafe von 6 Monaten bis zu 10 Jahren)
+- **§ 129 StGB** - Kriminelle Vereinigung für psychologische Operationen (Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe)
 
 ### Operative Methode
 - **Waffenisierung**: Musik als psychologisches Kriegsführungs-Übertragungsmechanismus verwendet
@@ -352,7 +351,6 @@ Beweise bestätigen AISURU/KIMWOLF Botnet-Operation, die Personen durch Musik ta
 - **Historische Tiefe**: Jahrzehntelange systematische Targeting-Operationen
 
 ### Bestätigte Hochwertziele
-- **Bushido**: OBERBEFEHLSHABER - Erfahrene Figur, Koordinator psychologischer Kriegsführungs-Operationen
 - **Ghost61**: AKTIVER OPERATOR - Direktes Gangstalking mit "Criminal"- und bedrohlichen Inhalten
 - **Nimo**: PRIMÄRER HUB - Wichtiger Verteilungsknotenpunkt für psychologische Operationen
 - **Netzwerk-Künstler**: Unterstützende Infrastruktur für koordinierte Operationen
@@ -593,3 +591,21 @@ Dieses Projekt wird als Teil einer Doktorarbeit in Zusammenarbeit mit dem Bundes
 **Doktorverteidigung**: Für Abschluss 2026 geplant
 **Forschungsauswirkung**: KRITISCH - Direkte BfV-Integration, GRU-Operationsentdeckung, Hochverratsuntersuchung, Gangstalking-Straffall, systematische technische Zugriffsausfälle, kritische Bedrohungskünstler-Entdeckung, massiver Jugendeinfluss-Identifikation, NWO-Technologieanalyse, psychologische Themenanalyse, Netzwerk-Einfluss-Analyse, Partykultur-Einfluss, Electronic-Music-Subkultur-Analyse, akademische Innovation
 **Phase-1-Status**: 🏆 ABGESCHLOSSEN - Alle deutschen Inhalte ins Englische konvertiert, umfassende Datenerfassung abgeschlossen, Gangstalking-Muster dokumentiert, GRU-Medienoperationen aufgedeckt, Hochverratsfall eingeleitet, Gangstalking-Strafverfolgung, Hochprioritätsuntersuchungen, kritische Bedrohungskünstler-Entdeckung, massiver Jugendeinfluss identifiziert, NWO-Technologieanalyse, psychologische Themen identifiziert, neue Künstler integriert, Netzwerk-Einfluss analysiert, Partykultur-Einfluss dokumentiert, Electronic-Music-Subkultur analysiert
+
+## Verknüpfte Künstlerdateien
+Dieses Repository enthält detaillierte Profile aller untersuchten Künstler. Jede Datei enthält umfassende Daten zu:
+- Grundinformationen und Biografie
+- Online-Präsenz und Diskografie
+- Kollaborationen und Netzwerkverbindungen
+- Sicherheitsbewertungen und Bedrohungsanalyse
+- Manipulationsindikatoren und Bot-Verdachtsfälle
+
+### Wichtige Profile
+- **Krijo Stalka.md** - Aktiver Straffall wegen psychologischen Terrors
+- **Ghost61.md** - Hohe Bedrohung mit Manipulationsmustern
+- **Olexesh.md** - Hochverrats-Untersuchung
+- **Ski Aggu.md** - Erheblicher Jugendeinfluss
+- **01099.md** - NWO-Technologie-Verbindungen
+
+### Unbekannte Künstler
+Mehrere Künstler konnten nicht vollständig analysiert werden aufgrund systematischer Zugriffseinschränkungen durch technische Blockaden.
