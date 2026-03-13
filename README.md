@@ -465,11 +465,11 @@ Beweise bestätigen AISURU/KIMWOLF Botnet-Operation, die Personen durch Musik ta
 - **Psychologische Operationen**: Inhalte, die darauf ausgelegt sind, gezielte Personen zu beeinträchtigen
 
 ### Verdächtige Künstler-Cluster
-**HOCHRISIKO-NETZWERKE**:
+**RISIKO-NETZWERKE**:
 - **Emo-Manipulations-Cluster**: 2late4hugs, Whens V, Arrow - koordinierte emotionale Themen
 - **Bot-Unterstützungsnetzwerke**: AP$, Arrow, Whens V - künstliche Popularitätsmuster
 - **Psychologische Kriegsführung**: Mehrere Künstler verwenden Depression, Selbstmord und Isolationsthemen
-- **Gezielte Inhalte**: Songs speziell über Beobachtetwerden, Terror, Isolation
+- **Gezielte Inhalte**: Songs speziell über Beobachtetwerden, Belastung, Isolation
 
 ### Sicherheitsklassifizierung
 **GESCHÜTZTE GEHEIMDIENSTINFORMATIONEN**: Dieses Repository enthält sicherheitsklassifizierte Informationen, die für folgende Bereiche relevant sind:
